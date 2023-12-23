@@ -21,4 +21,5 @@ MDK-ARM\DebugConfig/
 *.uvguix.hamad
 *.uvoptx
 *.uvprojx
-*..uvprojx
+*.uvprojx
+*.dbgconf
